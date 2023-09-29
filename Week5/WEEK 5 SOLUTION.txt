@@ -1,4 +1,4 @@
-?import csv
+import csv
 f=open('c:\\sqlite\\sqlite3\\csv\\stud4.csv','w',newline='')
 w=csv.writer(f)
 
